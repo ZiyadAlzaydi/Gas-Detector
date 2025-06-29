@@ -43,3 +43,4 @@ Enhances home or industrial safety
 Useful for kitchens, gas stations, or laboratories
 
 Easy to build and modify for learning or real use
+![gas detection](https://github.com/user-attachments/assets/b4afd736-eefd-49a8-afd0-3acae4fc6d6d)
