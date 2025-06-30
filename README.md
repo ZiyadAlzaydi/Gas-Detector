@@ -4,7 +4,7 @@ This project is a simple gas leakage detection system designed using an Arduino,
 
 
 
-🧰 Components Used:
+Components Used:
 Arduino Uno
 
 MQ-6 Gas Sensor
@@ -19,7 +19,7 @@ Resistor (220Ω for LED)
 
 Jumper wires & Breadboard
 
-⚙️ How it Works:
+How it Works:
 The MQ-6 sensor continuously monitors the air for the presence of gas.
 
 If the gas level exceeds a certain threshold:
@@ -32,7 +32,7 @@ The LCD screen displays a warning message like “GAS DETECTED!”.
 
 If the environment is safe (below the threshold), the system displays “Air Quality: Normal” on the LCD.
 
-🧾 Features:
+Features:
 Real-time gas level monitoring
 
 Visual alert (LED + LCD)
@@ -41,7 +41,7 @@ Audio alert (buzzer)
 
 Easy-to-read I2C LCD interface
 
-✅ Benefits:
+Benefits:
 Enhances home or industrial safety
 
 Useful for kitchens, gas stations, or laboratories
