@@ -30,7 +30,7 @@ The buzzer starts sounding an alarm.
 
 The LCD screen displays a warning message like “GAS DETECTED!”.
 
-If the environment is safe (below the threshold), the system displays “Air Quality: Normal” on the LCD.
+If the environment is safe (below the threshold), the system displays “No Gas Detected” on the LCD.
 
 Features:
 Real-time gas level monitoring
